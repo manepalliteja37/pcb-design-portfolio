@@ -118,7 +118,7 @@ This ensures efficient water usage and prevents overwatering.
 ![PCB Layout](images/pcb-layout.png)
 
 ### Hardware Prototype
-![Hardware](images/hardware.jpg)
+![Hardware](Images/soil_moisture_bearpcb.jpg)
 
 ---
 
