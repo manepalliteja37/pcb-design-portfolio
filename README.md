@@ -112,7 +112,7 @@ This ensures efficient water usage and prevents overwatering.
 ![Block Diagram](images/block-diagram.png)
 
 ### Schematic
-![Schematic](images/schematic.png)
+![Schematic](Images/schematic.png)
 
 ### PCB Layout
 ![PCB Layout](images/pcb-layout.png)
