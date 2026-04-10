@@ -109,7 +109,7 @@ This ensures efficient water usage and prevents overwatering.
 ## Images
 
 ### Block Diagram
-![Block Diagram](images/block-diagram.png)
+![Block Diagram](Images/blockdiagram-irrigation.png)
 
 ### Schematic
 ![Schematic](Images/schematic.png)
